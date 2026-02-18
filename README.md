@@ -1,4 +1,3 @@
-cat > /root/forge/README.md << 'EOF'
 # 🔥 Forge
 
 > Autonomous agent builder powered by Claude Code + Conway + Bankr
